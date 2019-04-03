@@ -1,0 +1,19 @@
+{
+    "name": "twitch-discord-relay",
+    "version": "1.0.0",
+    "description": "A way to relay messages from Twitch and Discord",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "setup ": "node src/setup/server.js"
+    },
+    "author": "Noxius",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "discord.js": "^11.4.2",
+        "express": "^4.16.4",
+        "open": "^6.0.0",
+        "tmi.js": "^1.4.2"
+    }
+}

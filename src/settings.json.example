@@ -1,0 +1,24 @@
+{
+    "general": {
+        "twitchUserIcons": true,
+        "discordDiscriminator": true,
+        "discordNickname": false,
+        "twitchDebug": false
+    },
+    "discord": {
+        "token": "",
+        "channel_id": "",
+        "webhook": {
+            "id": "",
+            "token": ""
+        }
+    },
+    "twitch": {
+        "identity": {
+            "clientid": "",
+            "username": "",
+            "password": ""
+        },
+        "channels": []
+    }
+}
